@@ -1,0 +1,14 @@
+# Ignorer les dossiers système
+__pycache__/
+.DS_Store
+
+# Ignorer les environnements virtuels
+venv/
+env/
+
+# Ignorer les GROS fichiers de données (Vital !)
+*.npy
+*.npz
+*.pkl
+sprites_pokemon/
+data/
